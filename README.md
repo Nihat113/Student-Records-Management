@@ -1,5 +1,4 @@
 # Student-Records-Management
-C Based Mini Project
 
 💻 C-Based Mini Project
 
