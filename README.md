@@ -4,6 +4,7 @@
 
 
 This is a terminal-based Student Records Management System built in the C programming language. It was developed as a final project for my programming course and includes over 3200 lines of code, written entirely by me. The goal of the project is to manage student information efficiently with a clean, interactive menu and structured modular code.
+//////////////////////////////////////////////////////////
 
 🔧 FEATURES
 
@@ -30,8 +31,10 @@ This is a terminal-based Student Records Management System built in the C progra
    🖥 Neatly formatted terminal UI with ANSI escape codes
    
    🔃 Smart "save on exit" logic (asks to save if changes are made)
+///////////////////////////////////////////////////////////
 
 📁 Project Structure
+
    main.c – Main logic and menu system
    
    student.c / student.h – Functions for student management
@@ -43,6 +46,7 @@ This is a terminal-based Student Records Management System built in the C progra
    data/students.txt – Initial file with student records
    
    README.md – Project description and usage
+//////////////////////////////////////////////////////////
 
 🎯 Project Result
 
