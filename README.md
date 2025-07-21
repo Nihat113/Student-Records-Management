@@ -2,13 +2,20 @@
 C Based Mini Project
 
 💻 C-Based Mini Project
+
+
 This is a terminal-based Student Records Management System built in the C programming language. It was developed as a final project for my programming course and includes over 3200 lines of code, written entirely by me. The goal of the project is to manage student information efficiently with a clean, interactive menu and structured modular code.
 
 🔧 FEATURES
+
    ➕ Add new student records
+   
    📋 List all student records
+   
    🔍 Search by first name, last name, ID, age, GPA, faculty, country, and city
+   
    🧮 Filter records by specific attributes
+
    📊 Sort students by any field (ID, GPA, name, etc.)
    📝 Edit and delete student information
    💾 Save and load data from a file (persistent storage)
