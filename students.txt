@@ -1,0 +1,14 @@
+Huseyn, Haciyev, 20, 1.70, 24968, IT, Azerbaijan, Baku, haciyev@ada.edu.az
+Sahil, Bagirzade, 19, 2.10, 20364, Finance, France, Paris, bagirzade@ada.edu.az
+Saleh, Haciyev, 19, 2.10, 29374, Law, Azerbaijan, Ganja, haciyev@ada.edu.az
+Nihat, Memmedov, 24, 2.37, 25647, Law, Bulgary, Sofia, memmedov@ada.edu.az
+Dilare, Misirxanli, 18, 2.40, 21968, IT, Azerbaijan, Agdam, misirxanli@ada.edu.az
+Elgun, Shukurov, 21, 2.40, 25687, IT, Russia, Moscow, salayev@ada.edu.az
+Elgun, Gaziyev, 23, 2.45, 24586, Business, Azerbaijan, Baku, gaziyev@ada.edu.az
+Nicat, Ezizli, 19, 2.89, 21975, Architecture, Italy, Rome, ezizli@ada.edu.az
+Amina, Heydarova, 20, 3.50, 20465, Law, Italy, Milan, heydarova@ada.edu.az
+Turkan, Sharifli, 18, 3.56, 20476, Food, China, Beijing, sharifli@ada.edu.az
+Mehemmed, Qurbanzade, 21, 4.00, 24586, Education, Turkey, Istanbul, qurbanzade@ada.edu.az
+Babek, Balayev, 23, 4.00, 25468, Business, Georgia, Tbilisi, balayev@ada.edu.az
+Nihat, Shukurov, 23, 3.56, 23945, IT, Azerbaijan, Baku, shukurov@ada.edu.az
+Saleh, Shukurov, 23, 2.34, 20076, IT, aZERBAIJAN, Baku, shukurov@ada.edu.az
